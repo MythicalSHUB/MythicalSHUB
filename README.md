@@ -42,5 +42,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MythicalSHUB&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/github/languages/top/MythicalSHUB/SpatialFlow?style=for-the-badge&color=purple" />
 </p>
+
+
