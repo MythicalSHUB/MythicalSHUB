@@ -14,6 +14,10 @@ I'm passionate about building innovative solutions through modern Android techno
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+
+
+
+
 - Android Developer - Specializing in Kotlin & Jetpack Compose
 - UI/UX Focused - Material Design 3 & Modern Architecture
 - Open Source Advocate - Active contributor & project maintainer
