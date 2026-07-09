@@ -1,116 +1,238 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Shubham;MythicalSHUB+⚡;Tech+Enthusiast+💻+%7C+Gamer+🎮+%7C+Builder+🚀;Welcome+to+my+GitHub+Universe+🌌" />
-</h1>
+# Hi, I'm Shubham Karande
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=140&section=header&text=MYTHICALSHUB&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&width=500&lines=Android+Developer;Open+Source+Enthusiast;Kotlin+and+Jetpack+Expert;Always+Learning" alt="Typing SVG" />
+</p>
+
+**Tech Enthusiast | Android Developer | Open Source Contributor | Problem Solver**
+
+I'm passionate about building innovative solutions through modern Android technologies. Specialized in Kotlin, Jetpack Compose, and creating user-centric applications that solve real-world problems.
+
+---
+
+## About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- Android Developer - Specializing in Kotlin & Jetpack Compose
+- UI/UX Focused - Material Design 3 & Modern Architecture
+- Open Source Advocate - Active contributor & project maintainer
+- Problem Solver - Strong in Data Structures & Algorithms
+- Tech Enthusiast - Continuous explorer of new technologies
+- Competitive gamer - BGMI, PUBG, and tech exploration
+
+---
+
+## Technical Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,android,firebase,git,vscode,linux,figma&perline=5" />
+</p>
+
+**Languages:**  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Mobile & Android:**  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design_3-757575?style=flat-square&logo=materialdesign&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Featured Project: SpatialFlow
+
+<div align="center">
+  
+### Next-Generation Android Music Player
+
+A modern, open-source hybrid music player combining local playback with online streaming, built with Kotlin & Jetpack Compose.
+
+![Downloads](https://img.shields.io/github/downloads/MythicalSHUB/SpatialFlow/total?color=5C7AEA&style=flat-square)
+![Release](https://img.shields.io/github/v/release/MythicalSHUB/SpatialFlow?color=4ADE80&style=flat-square)
+![Build](https://img.shields.io/github/actions/workflow/status/MythicalSHUB/SpatialFlow/release.yml?style=flat-square&label=BUILD)
+![Issues](https://img.shields.io/github/issues/MythicalSHUB/SpatialFlow?color=EF4444&style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android)
+![Language](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin)
+![License](https://img.shields.io/github/license/MythicalSHUB/SpatialFlow?color=10B981&style=flat-square)
+
+</div>
+
+### Key Features
+
+#### Music Library
+- Automatic Local Media Scanning - MP3, FLAC, AAC, WAV, OGG, M4A support
+- Smart Organization - Albums, Artists, Playlists with unified queue
+- Fast Search and Filtering - Instant music discovery
+
+#### Online Streaming
+- YouTube Music Integration - Stream without account
+- Seamless Playback - Unified local and online experience
+- Smart Queue - Intelligent playlist management
+
+#### Advanced Audio Engineering
+- LUFS-based Volume Normalization - Consistent listening volume
+- Multi-band Equalizer - Professional audio tuning
+- Audio Effects - Bass Boost, Reverb, Loudness Enhancement
+- Gapless Playback - Uninterrupted listening experience
+
+#### Premium User Experience
+- Material Design 3 Expressive - Fully Compose-based UI
+- Dynamic Theming - Album art color extraction
+- AMOLED Pure Black Mode - Battery-optimized display
+- Smooth Animations - Spring physics interactions
+
+#### Performance
+- Optimized Memory - Efficient resource usage
+- Reactive Updates - Real-time UI responsiveness
+- Fast Indexing - Quick library loading
+- Media3 Playback - High-performance audio engine
+
+### Tech Stack
+
+| Component | Technology |
+|-----------|------------|
+| Language | Kotlin 1.9+ |
+| UI Framework | Jetpack Compose |
+| Design System | Material Design 3 Expressive |
+| Media Engine | AndroidX Media3 |
+| Networking | Ktor Client |
+| State Management | StateFlow + ViewModel |
+| Concurrency | Kotlin Coroutines |
+| Dependency Injection | Koin |
+
+### Project Stats
+
+```
+36 Commits
+22 Stars  
+2 Forks
+Kotlin 96.4% | Java 3.6%
+Min SDK 24 (Android 7.0+)
+Actively Maintained
+```
+
+### View Full SpatialFlow Repository
+[github.com/MythicalSHUB/SpatialFlow](https://github.com/MythicalSHUB/SpatialFlow)
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MythicalSHUB&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MythicalSHUB&theme=tokyonight&border_radius=10" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MythicalSHUB&theme=tokyo-night&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
 
-## 🌐 DIGITAL IDENTITY
+## Currently Learning and Exploring
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Explorer-00BFFF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gamer-ff0055?style=for-the-badge&logo=gamepad&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code%20Builder-6A5ACD?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&color=FF6B9D&center=true&width=600&lines=Advanced+Audio+Processing;Wear+OS+Development;Android+Auto+Integration;Performance+Optimization;ML+Kit+Integration" />
 </p>
+
+- Advanced audio processing techniques
+- Android security best practices
+- Machine Learning on Android
+- Multi-device experiences (Wear OS, Auto)
+- Game development with Android
 
 ---
 
-## 👀 ABOUT ME
+## What I'm Working On
 
-<img align="right" height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-- 💻 Obsessed with **coding, automation & tech tools**
-- 🎮 Competitive **BGMI / PUBG** player  
-- 🚀 Building **apps for students & gamers**
-- 🧠 Love experimenting with **new ideas & systems**
-- ⚡ Always learning. Always building.
-
----
-
-## 🧠 CURRENTLY LEARNING
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,android,github,vscode,firebase&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Improving+DSA+⚙️;Building+Real+Projects+🚀;Exploring+Open+Source+🌍;Leveling+Up+Daily+💯" />
-</p>
-
----
-
-## 🤝 COLLABORATION ZONE
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Game%20Development-red?style=for-the-badge&logo=unity"/>
-  <img src="https://img.shields.io/badge/Android%20Apps-blue?style=for-the-badge&logo=android"/>
-  <img src="https://img.shields.io/badge/Tech%20Utilities-purple?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/UI%20Concepts-ff69b4?style=for-the-badge&logo=figma"/>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <b>SpatialFlow</b><br>
+      Premium music streaming player with local and online integration
+    </td>
+    <td width="50%">
+      <b>DSA Mastery</b><br>
+      Continuous algorithmic improvement and competitive programming
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>Open Source</b><br>
+      Contributing to Android ecosystem projects
+    </td>
+    <td width="50%">
+      <b>UI Research</b><br>
+      Exploring Material Design innovations
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GITHUB PERFORMANCE
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MythicalSHUB&show_icons=true&theme=tokyonight&border_radius=15&rank_icon=github"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MythicalSHUB&theme=tokyonight&border_radius=15"/>
-</p>
-
----
-
-## 📈 CONTRIBUTION GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MythicalSHUB&theme=tokyo-night&area=true&hide_border=true"/>
-</p>
-
----
-
-## 🚀 TECH STACK VISUAL
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,android,firebase,github,vscode,figma,linux&perline=9"/>
-</p>
-
----
-
-## 🌍 CONNECT WITH ME
+## Let's Connect and Collaborate
 
 <p align="center">
   <a href="mailto:shubhamjkarande@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/realshubhamkarande">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MythicalSHUB">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mythicalshub">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
+### Open to Collaboration
+
+I'm interested in working on:
+- Android Applications - Production-grade apps
+- Media Applications - Audio/Video processing
+- Game Development - Interactive experiences
+- Research Projects - Innovative tech solutions
+- Open Source - Community-driven development
+
+Let's build something amazing together!
+
 ---
 
-## 🎮 FUN MODE
+## Quick Facts
+
+```
+Location: India
+Languages: Hindi, English, Marathi(Primary)
+Expertise: Kotlin, Android, Jetpack Compose
+Gaming: BGMI/PUBG Competitive Player
+Reading: Tech blogs, Documentation
+Listening: Lo-fi, EDM, Podcast, Sythwave
+```
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&color=ff0055&center=true&vCenter=true&width=900&lines=I+debug+code+like+a+pro+💻;Then+drop+into+BGMI+for+a+1v4+clutch+🎮;Builder+Mindset+Activated+🚀"/>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  <br>
+  <b>Always open to new opportunities and interesting tech discussions!</b>
+  <br>
+  <i>Let's create something extraordinary</i>
 </p>
 
 ---
 
-## 🧬 PROFILE VIBE
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=140&section=footer"/>
+  Made with care by Shubham Karande | Android Developer
 </p>
